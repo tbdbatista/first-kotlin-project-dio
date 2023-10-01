@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meu primeiro App em kotlin</string>
+    <string name="frase_inicial">Bem-vindo ao meu aplicativo Android com Kotlin!</string>
+</resources>

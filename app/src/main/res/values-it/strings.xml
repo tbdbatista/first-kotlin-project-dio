@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La mia prima app in Kotlin</string>
+    <string name="frase_inicial">Benvenuti nella mia app Android con Kotlin!</string>
+</resources>
