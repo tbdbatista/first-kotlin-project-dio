@@ -10,7 +10,7 @@ Este é um projeto simples desenvolvido como parte do bootcamp Kotlin da Digital
 
 Este projeto foi desenvolvido utilizando:
 
-Kotlin
+Kotlin sdk 33
 
 Android Studio Electric Eel | 2022.1.1 Patch 2
 
